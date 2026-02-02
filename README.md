@@ -1,14 +1,12 @@
-Lab ini dibangun di atas PNETLab. Anda dapat mengunjungi situs berikut ini :
-https://pnetlab.com/pages/main
+This lab is built on PNETLab. You can visit the following website: https://pnetlab.com/pages/main
 
-Requirements laptop / PC untuk lab : 
-Minimal RAM 16GB
-CPU 4 - 6 Core
-OS Bebas, asalkan bisa jalan VM baik itu dengan VMware maupun VirtualBox. Rekomendasi menggunakan VMware.
+Laptop/PC requirements for the lab: 
+- Minimum 16GB RAM
+- 4-6 core CPU
+- any OS, as long as it can run VMware or VirtualBox. VMware is recommended.
 
-Image yang perlu disiapkan : 
+Required images:
 - IOL L3
 - MikroTik ROS v6 / v7
 - FGT Image v7.xx.x
-
-Source Image Pull : https://github.com/pnetlabrepo/ishare2
+Image Pull Source: https://github.com/pnetlabrepo/ishare2
